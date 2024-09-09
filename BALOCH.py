@@ -1,2 +1,2 @@
-from BALOCH import superuser
+from BALOCH1 import superuser
 superuser()
